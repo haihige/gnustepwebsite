@@ -5,7 +5,7 @@
 - Links to personal blogs?
 - Tutorials (not as "official" as guides under Docs)
 
-## [libs-gui Release 0.32.0](blog/news/libs-gui-v0.32.0)
+## [libs-gui Release 0.32.0](news/libs-gui-v0.32.0)
 
 This version adds binding support for NSBrowser, NSOutlineView and NSTableView. Plus the usual bunch of bug fixes.
 
