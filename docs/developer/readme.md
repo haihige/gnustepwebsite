@@ -18,7 +18,7 @@ Our APIs are split into three main libraries:
 - gui: known as AppKit in Cocoa, gui is a UI toolkit that tells the app what to draw.
 - back: the brains behind gui, back tells the app how to draw graphics.
 
-More details on the architecture of GNUstep can be found in [About](../about).
+More details on the architecture of GNUstep can be found in [About](../../about).
 
 ## Objective-C
 

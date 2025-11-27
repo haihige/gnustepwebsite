@@ -4,7 +4,7 @@
 
 ### Mac
 
-[Apps](../gallery/apps) run natively on Mac and can be built using Xcode. The minimum OS version required to run the app depends on the APIs used in the app and the Mac SDK in Xcode.
+[Apps](../gallery) run natively on Mac and can be built using Xcode. The minimum OS version required to run the app depends on the APIs used in the app and the Mac SDK in Xcode.
 
 ### Windows
 
