@@ -1,7 +1,4 @@
----
-layout: page
-title: NSArray
----
+# NSArray
 
 Documentation at the AppleDeveloperConnection:
 
