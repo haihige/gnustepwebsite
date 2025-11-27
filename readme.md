@@ -3,7 +3,7 @@
 An open-source implementation of Cocoa(tm): an API with an elegant design for building beautiful, cross-platform applications quickly.
 
 ![](three_up.png)
-_Apps running on Mac, Linux/BSD, and Windows, though they can also run on many other platforms._
+_Apps running on Mac, Linux/BSD, and Windows; though they can also run on many other platforms._
 
 Apps use the native interface on Mac out of the box. They can run on [Windows](docs#windows). Cocoa compatibility is up to macOS 10.15, and software developed using GNUstep can be built on [macOS](docs#mac) using Xcode.
 
