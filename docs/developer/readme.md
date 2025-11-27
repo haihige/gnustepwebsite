@@ -2,7 +2,7 @@
 
 ## Communication
 
-In addition to the options in [Community](/community), there are also some developer-specific channels for communication.
+In addition to the options in [Community](../../community), there are also some developer-specific channels for communication.
 
 The primary communication method for GNUstep is the mailing lists.
 
@@ -18,7 +18,7 @@ Our APIs are split into three main libraries:
 - gui: known as AppKit in Cocoa, gui is a UI toolkit that tells the app what to draw.
 - back: the brains behind gui, back tells the app how to draw graphics.
 
-More details on the architecture of GNUstep can be found in [About](/about).
+More details on the architecture of GNUstep can be found in [About](../about).
 
 ## Objective-C
 
@@ -64,8 +64,8 @@ Objective-C is a mature, stable language with many existing materials available.
 
 **Articles**
 - Apple's Developer Reference...
-- [NSArray](/docs/developer/articles/nsarray) (from CocoaDev)
-- [NSFastEnumeration / NSEnumerator](/docs/developer/articles/nsfastenumeration-nsenumerator) (from NSHipster)
+- [NSArray](articles/nsarray) (from CocoaDev)
+- [NSFastEnumeration / NSEnumerator](articles/nsfastenumeration-nsenumerator) (from NSHipster)
 - NSBlog (Mike Ash's Blog)
 
 #### Advanced
