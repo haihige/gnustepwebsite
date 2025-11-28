@@ -1,6 +1,6 @@
 # GNUstep Home Page
 
-An open-source implementation of Cocoa(tm): an API with an elegant design for building beautiful, cross-platform applications quickly.
+An open-source implementation of Cocoa:tm:, GNUstep is an API with an elegant design for building beautiful, cross-platform applications quickly.
 
 ![](three_up.png)
 _Apps running on Mac, Linux/BSD, and Windows; though they can also run on many other platforms._
